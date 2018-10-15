@@ -23,19 +23,22 @@ dt{
   background-color: lightcoral;
 }
 
-#list{
+#tab{
   border: 2px solid lightcoral;
   border-collapse: collapse;
 }
 
 th{
-  
+  border: 1px solid lightcoral;
+  background-color: mistyrose;
+  width: 100px;
+  padding: 5px;
+  text-align: center;
 }
 
-tb{
-  
-}
-
-tf{
-
+td{
+  border: 1px solid lightcoral;
+  width: 100px;
+  padding: 5px;
+  text-align: right;
 }
