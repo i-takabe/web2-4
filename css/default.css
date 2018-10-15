@@ -3,9 +3,9 @@
 #box{
   width: 200px;
   height: 400px;
-  margin: 30px auto;
+  margin: 40px;
   padding: 30px 40px;
-  border: red 3px;
+  border: red 3px solid;
   background-color: white;
 }
 
