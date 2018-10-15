@@ -17,6 +17,9 @@ dt{
   -webkit-appearance: none;
   -webkit-border-radius: 0;
   margin: 6px;
+  width: 120px;
+  height: 40px;
+  font-size: 20px;
   background-color: lightcoral;
 }
 
