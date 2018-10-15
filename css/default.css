@@ -15,6 +15,10 @@ dt{
   float: left;
 }
 
+dh{
+  float: left;
+}
+
 .btn{
   -webkit-appearance: none;
   -webkit-border-radius: 0;
