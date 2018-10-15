@@ -7,11 +7,14 @@
   padding: 30px 40px;
   border: red 3px;
   background-color: white;
-  float: left;
 }
 
 dt{
   clear: left;
+  float: left;
+}
+
+dh{
   float: left;
 }
 
