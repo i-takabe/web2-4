@@ -3,7 +3,7 @@
 #box{
   width: 200px;
   height: 400px;
-  margin: 40px;
+  margin: 40px auto;
   padding: 30px 40px;
   border: green 3px solid;
   background-color: white;
