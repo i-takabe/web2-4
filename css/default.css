@@ -1,11 +1,13 @@
 @charset "UTF-8";
 
 #box{
-  width: 400px;
+  width: 200px;
+  height: 400px;
   margin: 30px auto;
   padding: 30px 40px;
   border: red 3px;
   background-color: white;
+  float: left;
 }
 
 dt{
