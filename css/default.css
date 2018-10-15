@@ -17,7 +17,7 @@ dt{
   -webkit-appearance: none;
   -webkit-border-radius: 0;
   margin: 6px;
-  width: 120px;
+  width: 1200px;
   height: 40px;
   font-size: 20px;
   background-color: lightcoral;
@@ -38,6 +38,7 @@ th{
 
 td{
   border: 1px solid lightcoral;
+  background-color: white;
   width: 100px;
   padding: 5px;
   text-align: right;
